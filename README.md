@@ -4,7 +4,7 @@ JAVA simple code for student list sorting based on Stream API
 ## JAVA on Manjaro Linux
 - **`sudo pacman -S jdk-openjdk`**
 
-- Команда javac Main.java компилирует ваш файл Main.java и создает файл Main.class, который содержит байт-код Java.
+- Команда javac Main.java компилирует файл Main.java и создает файл Main.class, который содержит байт-код Java.
 - **`javac Main.java`**
 
 - Команда java Main загружает и выполняет класс Main.
